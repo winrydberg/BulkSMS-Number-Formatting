@@ -2,8 +2,7 @@
 Phone Number formatting for PlaySMS Platform - BulkSMS Platform.
 
 # Phone Number Formatting for PlaySMS Phonebook Service
-This code is a utility service that allows me to quickly format phone numbers in internation format for PlaySMS Phone.
-
+This code is a utility service that allows me to quickly format phone numbers in international format for PlaySMS.
 The data is then store in a csv file ready for upload.
 
 # Usage:
